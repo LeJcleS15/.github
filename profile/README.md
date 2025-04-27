@@ -2,11 +2,9 @@
 
 > **SSL for AI content**
 
----
-
 ## About
 
-0byte Labs is a deep-tech studio solving the biggest problem in the generative-AI era: **“How do I know this file is real?”**  
+0byte is a deep-tech studio solving the biggest problem in the generative-AI era: **“How do I know this file is real?”**  
 We create open-source tooling that attaches an **invisible, zero-knowledge proof of origin** to every AI-generated image, video, or audio clip. Anyone can verify authenticity in milliseconds—no proprietary APIs, no leaked prompts, no guesswork.
 
 **Key points**
