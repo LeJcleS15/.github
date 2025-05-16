@@ -1,3 +1,22 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8ffbede2-f7f3-481d-8197-7aeefbd5bd94" alt="0byte logo" width="200"/>
+</p>
+
+<p align="center">
+  <a href="https://www.0byte.tech/">
+    <img src="https://img.shields.io/badge/Get%20Started-1abc9c?style=for-the-badge" alt="Get Started">
+  </a>
+  <a href="https://0byte.tech/verify">
+    <img src="https://img.shields.io/badge/0byte%20Verifer-4C51BF?style=for-the-badge" alt="0byte Verifier">
+  </a>
+  <a href="https://github.com/0byte-lab/python-sdk">
+    <img src="https://img.shields.io/badge/readme-yellow?style=for-the-badge" alt="Readme">
+  </a>
+  <a href="https://pypi.org/project/zbyte">
+    <img src="https://img.shields.io/badge/PyPI-zbyte-blue?style=for-the-badge" alt="Install from PyPI">
+  </a>
+</p>
+
 # 0byte
 
 > **SSL for AI content**
