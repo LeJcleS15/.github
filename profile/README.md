@@ -4,8 +4,9 @@
 
 ## About
 
-**0byte** solves the biggest problem in the generative-AI era: **“How do I know this file is real?”**  
-It attaches an **invisible, zero-knowledge proof of origin** to every AI-generated image, video, or audio clip. Anyone can verify authenticity in milliseconds—no proprietary APIs, no leaked prompts, no guesswork.
+“How can I prove this file was genuinely AI-generated—and by whom?”
+
+We embed an invisible, zero-knowledge proof of origin directly into every AI-generated image, video, or audio file. Anyone can independently verify the content’s authenticity in milliseconds—no central APIs, no leaked prompts, no guesswork.
 
 **Key points**
 
@@ -16,16 +17,4 @@ It attaches an **invisible, zero-knowledge proof of origin** to every AI-generat
 
 ## How it works
 
-```mermaid
-graph LR
-    A[AI Platform] -->|calls| B(0byte SDK)
-    B -->|upload file| C{0byte Cloud}
-    C --> D[Generate ZK proof]
-    D --> E[Embed proof<br/>inside media]
-    E --> F[Anchor commitment<br/>on Solana]
-    E -->|file + proofId| B
-    B --> A
-    %% Verification path
-    G[Verifier] -.->|drag & drop file| H[Extract proof]
-    H -.->|query| F
-    H -.->|green/red| G
+![0byte-new-how-it-works](https://github.com/user-attachments/assets/8ce8a148-5084-4b86-ba2a-e645da39fa32)
