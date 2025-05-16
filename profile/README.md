@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/0byte%20Verifer-4C51BF?style=for-the-badge" alt="0byte Verifier">
   </a>
   <a href="https://github.com/0byte-lab/python-sdk">
-    <img src="https://img.shields.io/badge/readme-yellow?style=for-the-badge" alt="Readme">
+    <img src="https://img.shields.io/badge/sdk_readme-yellow?style=for-the-badge" alt="Readme">
   </a>
   <a href="https://pypi.org/project/zbyte">
     <img src="https://img.shields.io/badge/PyPI-zbyte-blue?style=for-the-badge" alt="Install from PyPI">
