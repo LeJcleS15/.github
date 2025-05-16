@@ -15,6 +15,12 @@
   <a href="https://pypi.org/project/zbyte">
     <img src="https://img.shields.io/badge/PyPI-zbyte-blue?style=for-the-badge" alt="Install from PyPI">
   </a>
+  <a href="https://x.com/0byteHQ">
+    <img src="https://img.shields.io/badge/x-0byte-blue?style=for-the-badge" alt="X">
+  </a>
+  <a href="https://discord.gg/2GUWSDrk">
+    <img src="https://img.shields.io/badge/Discord-Join_0byte-blue?style=for-the-badge" alt="Discord">
+  </a>
 </p>
 
 # 0byte
